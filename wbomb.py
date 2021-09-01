@@ -1,6 +1,7 @@
 from selenium import webdriver
 import os
 from webdriver_manager.chrome import ChromeDriverManager #1st changer
+os.system("clear")
 def banner():
 	print('''
 		  ##              ##  =======     ####       ####    ####     =======
