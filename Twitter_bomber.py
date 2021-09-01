@@ -9,7 +9,7 @@ import time
 import sys
 from selenium.webdriver.chrome.options import Options
 
-
+os.system("clear")
 def banner():
     print('''
                   _______  __          __                             ____     ____    __  __   ____             
