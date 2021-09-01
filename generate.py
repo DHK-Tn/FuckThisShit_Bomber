@@ -9,7 +9,7 @@ class bcolors:
     YELLOW = '\033[93m'
     RED = '\033[91m'
 
-
+os.system("clear")
 def banner():
     print(bcolors.GREEN + '+[+[+[ FuckThisSh!t Bomber ]+]+]+')
     print(bcolors.GREEN + '+[+[+[ made with Love      ]+]+]+')
