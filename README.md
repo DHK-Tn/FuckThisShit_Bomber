@@ -28,10 +28,10 @@ Run these commands to run Master-Bomber
 sudo apt install git  
 ```
 ```
-git clone https://github.com/DHK-Tn/Fuck_this_shit_bomber.git
+git clone https://github.com/DHK-Tn/FuckThisShit_Bomber.git
 ```
 ```
-cd Fuck_this_shit_bomber
+cd FuckThisShit_Bomber
 ```
 ```
 python3 generate.py
