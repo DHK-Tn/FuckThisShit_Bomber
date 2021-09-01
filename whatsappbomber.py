@@ -4,7 +4,30 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.keys import Keys 
 from selenium.webdriver.common.by import By 
 import time
+import os
 
+
+class bcolors:
+    GREEN = '\033[92m'
+    YELLOW = '\033[93m'
+    RED = '\033[91m'
+
+os.system("clear")
+def banner():
+    print(bcolors.GREEN + '+[+[+[ FuckThisSh!t Bomber ]+]+]+')
+    print(bcolors.GREEN + '+[+[+[ made with Love      ]+]+]+')
+    print(bcolors.GREEN + '''
+
+ __      __.__            __                              __________              ___.    
+/  \    /  \  |__ _____ _/  |_  ___________  ______ ______\______   \ ____   _____\_ |__  
+\   \/\/   /  |  \\__  \\   __\/  ___/\__  \ \____ \\____ \|    |  _//  _ \ /     \| __ \ 
+ \        /|   Y  \/ __ \|  |  \___ \  / __ \|  |_> >  |_> >    |   (  <_> )  Y Y  \ \_\ \
+  \__/\  / |___|  (____  /__| /____  >(____  /   __/|   __/|______  /\____/|__|_|  /___  /
+       \/       \/     \/          \/      \/|__|   |__|          \/             \/    \/ 
+
+
+''')
+print(banner())
 # contact name can also be the name of a group
 target=input('enter the contact name: ')
 n=int(input('enter the number of messages you want to send: '))
