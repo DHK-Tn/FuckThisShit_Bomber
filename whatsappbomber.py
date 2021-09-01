@@ -18,12 +18,12 @@ def banner():
     print(bcolors.GREEN + '+[+[+[ made with Love      ]+]+]+')
     
 
-print(bcolors.GREEN + " __      __.__            __                              __________              ___.  ") 
-print(bcolors.GREEN + "/  \    /  \  |__ _____ _/  |_  ___________  ______ ______\______   \ ____   _____\_ |__  ")
-print(bcolors.GREEN + "\   \/\/   /  |  \\__  \\   __\/  ___/\__  \ \____ \\____ \|    |  _//  _ \ /     \| __ \ ")
-print(bcolors.GREEN + " \        /|   Y  \/ __ \|  |  \___ \  / __ \|  |_> >  |_> >    |   (  <_> )  Y Y  \ \_\ \")
-print(bcolors.GREEN + "    _/\  / |___|  (____  /__| /____  >(____  /   __/|   __/|______  /\____/|__|_|  /___  /")
-print(bcolors.GREEN + "   \/       \/     \/          \/      \/|__|   |__|          \/             \/    \/ ")
+print(bcolors.GREEN + " __      __.__            __                              __________              ___.     ") 
+print(bcolors.GREEN + "/  \    /  \  |__ _____ _/  |_  ___________  ______ ______\______   \ ____   _____\_ |__   ")
+print(bcolors.GREEN + "\   \/\/   /  |  \\__  \\   __\/  ___/\__  \ \____ \\____ \|    |  _//  _ \ /     \| __ \  ")
+print(bcolors.GREEN + " \        /|   Y  \/ __ \|  |  \___ \  / __ \|  |_> >  |_> >    |   (  <_> )  Y Y  \ \_\ \ ")
+print(bcolors.GREEN + "    _/\  / |___|  (____  /__| /____  >(____  /   __/|   __/|______  /\____/|__|_|  /___  / ")
+print(bcolors.GREEN + "       \/       \/     \/          \/      \/|__|   |__|          \/             \/    \/  ")
 
 print(banner())
 # contact name can also be the name of a group
