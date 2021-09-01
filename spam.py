@@ -1,6 +1,4 @@
-# Discord: TiMoFey#5066
-# Github: https://github.com/timofey260/pyspam
-# site: https://timofey26s.tilda.ws
+
 # import______________________________________________
 import codecs
 import pyautogui
@@ -21,6 +19,8 @@ x = 6
 modes = 3
 v = "1.2.5"
 run = True
+#clear 
+os.system("clear")
 # banners____________________________________________
 log = ('1.2.5:\n'
        '-interval added\n')
@@ -31,10 +31,10 @@ b = ('_____   +                       |||||||||||||||||| \n'
      '  |     |  /      \\/      \\     ||||\\00000000/|||| \n'
      '========spam_programm===========|||||||||||||||||| \n')  # menu
 cr = (rg + ' ________________________________________________ \n'
-           '|-------------------Made by Timofey--------------|\n'
-           '|Discord: TiMoFey#5066                           |\n'
-           '|Github: https://github.com/timofey260/pyspam    |\n'
-           '|site: https://timofey26s.tilda.ws               |\n'
+           '|-------------------Made by DHK-Tn---------------|\n'
+           '|Insta: tarek dgh                                |\n'
+           '|Github: https://github.com/DHK-Tn               |\n'
+           '|Fb: www.fb.com/sayb.lien.chbtaml.bih            |\n'
            '|________________________________________________|\n')
 err = (rr + ' _________________________________________________________ \n'
             '|---------------------------Errors------------------------|\n'
