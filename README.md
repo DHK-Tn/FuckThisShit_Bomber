@@ -26,8 +26,14 @@ Run these commands to run Master-Bomber
 ## Kali linux
 ```
 sudo apt install git  
+```
+```
 git clone https://github.com/DHK-Tn/Fuck_this_shit_bomber.git
+```
+```
 cd Fuck_this_shit_bomber
+```
+```
 python3 generate.py
 
 
