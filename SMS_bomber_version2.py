@@ -24,7 +24,7 @@ def banner():
  \______/ |__/     |__/ \______/       |_______/  \______/ |__/     |__/|_______/ |________/|__/  |__/
                                                                                                                                                                                                     
                                    By : DHK-Tn 
-                                With <3 of T34M DHK                                                                                                  
+                                With <3 of T34M DHK    Version2                                                                                              
     Note : Fuck Your Victim Now!
 """)
 #http://m.naaptol.com/faces/jsp/ajax/ajax.jsp?actionname=checkMobileUserExists&mobile=
