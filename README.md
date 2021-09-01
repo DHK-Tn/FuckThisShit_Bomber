@@ -1,4 +1,4 @@
-# Fuck_this_shit_bomber
+
 <h1 align="center">Fuck This Sh!t Bomber</h1>
 <p align="center">An open-source SMS/Call/Mail/Whatsapp bomber for Linux</p><br>
 
