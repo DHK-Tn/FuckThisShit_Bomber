@@ -1,5 +1,8 @@
 import smtplib
 import time
+import os 
+
+os.system("clear")
 print ("\033[1;31m_________    __        __        ____        ________    __                                             \033[1;m")
 print ("\033[1;34m|########|  |##\      /##|      /####\      |########|  |##|              By DHK-Tn                  \033[1;m")
 print ("\033[1;34m|##|____    |###\ __ /###|     /##/\##\        |##|     |##|              Made with code             \033[1;m")
