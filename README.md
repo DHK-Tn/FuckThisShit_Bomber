@@ -39,8 +39,8 @@ python3 generate.py
 
 ```
 ## Note
-you need to install webdriver and Chrome in your windows or linux OS 
-and put the path in Whatsapp Bomber 
+<b>you need to install webdriver and Chrome in your windows or linux OS 
+and put the path in Whatsapp Bomber </b>
 
 ## Another Note:
 
