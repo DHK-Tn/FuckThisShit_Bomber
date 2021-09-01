@@ -1,5 +1,7 @@
 from numspy import Way2sms
+import os
 
+os.system("clear")
 try:
 	w2s = Way2sms()
 
