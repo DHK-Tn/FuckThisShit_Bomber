@@ -3,7 +3,7 @@
 <p align="center">An open-source SMS/Call/Mail/Whatsapp bomber for Linux</p><br>
 
 <p align="center">
-  <img src="https://github.com/DHK-Tn/Fuck_this_shit_bomber/blob/main/DHK.png"><br>
+  <img src="https://github.com/DHK-Tn/FuckThisShit_Bomber/blob/main/DHK.png"><br>
 </p>
 this Created For fun 
 # :boom::bomb::bomb::bomb: BOMBERs :bomb::bomb::bomb::boom:
